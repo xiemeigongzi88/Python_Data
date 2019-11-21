@@ -1,4 +1,4 @@
-1.	Utilizing Pandas, Matplotlib, and Folium to analyze car accidents in Barcelona 
+Utilizing Pandas, Matplotlib, and Folium to analyze car accidents in Barcelona 
 
 Dataset: https://www.kaggle.com/xvivancos/barcelona-data-sets
 This dataset includes information such as the number of injuries by severity, the number of vehicles involved, the date, and the geographic location of the accident.
