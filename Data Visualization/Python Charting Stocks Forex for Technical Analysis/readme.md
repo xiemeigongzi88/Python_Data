@@ -5,7 +5,8 @@
 
 ## Tools: Matplotlib, Yahoo Finance API, Numpy
 
-## Target: lines, candlestick (using Matplotlib's candlestick function), subplots, volume underneath in another sub plot, RSI indicator, tick label colors, edge / spine colors, line colors, OHLC candlestick colors, learn how to create a filled graph (for volume), histograms, draw specific lines (hline for RSI), and a whole lot more.  
+## Target: 
+  lines, candlestick (using Matplotlib's candlestick function), subplots, volume underneath in another sub plot, RSI indicator, tick label colors, edge / spine colors, line colors, OHLC candlestick colors, learn how to create a filled graph (for volume), histograms, draw specific lines (hline for RSI), and a whole lot more.  
 
   This data visualization project was inspired by the project “Advanced Matplotlib Series”
   https://pythonprogramming.net/advanced-matplotlib-graphing-charting-tutorial/
